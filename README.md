@@ -19,27 +19,27 @@ to create impactful solutions, I constantly evolve my skills to bridge technolog
   International Institute of Information Technology, Bangalore, India. 2022
 
 - **Bachelor of Technology, Electrical and Electronics Engineering**  
-  Biju Patnaik University of Technology, Odisha, India. 2010
+  Biju Patnaik University of Technology, Odisha, India.                2010
 
 
-## PROFESSIONAL EXPERIENCE
+## Professional Experience
+---
+**Amantya Technologies, Gurgaon**  
+*Technical Lead* (Apr 2021 - Present)  
+- Led a team of developers in designing and delivering KVM over IP technology, enabling remote access to multiple servers and improving operational efficiency.  
+- Developed and implemented a machine learning model to predict system failures with 92% accuracy, reducing risk analysis time by 20% and enabling real-time anomaly detection for predictive maintenance.
 
-Amantya Technologies, Gurgaon
-Wavenet Solutions Pvt Ltd., Gurgaon (merged with Amantya Tech)
-Apr 2021 - Present
-Feb 2019 - Mar 2021
-Technical Lead
+**Ahoy Systems Pvt Ltd, Gurgaon**  
+*Embedded System Associate* (Nov 2017 - Jan 2019)  
+- Programmed IoT devices with customized message transmission and control modes, enhancing embedded system functionalities.  
+- Analyzed data from IoT devices to improve system performance and inform decisions based on usage patterns.
 
-Led a team of 5 developers in designing and delivering KVM over IP access technology,
-enabling remote users to access multiple servers simultaneously.
-Managed feature development and handled the end-to-end delivery of release builds to clients.
-Developed and implemented a machine learning model with 92% accuracy to predict system
-failure causes, reducing risk analysis time by 20% and enabling real-time anomaly detection for
-predictive maintenance.
-Utilized data analytics and visualization techniques within Linux systems to identify
-performance trends and optimize system operations.
-Played a key role in firmware development for system and application design, improving
-operational efficiency and enhancing security measures.
-Processed large datasets systematically, ensuring data accuracy and completeness through
-cleaning and organization. Conducted in-depth statistical analyses using Python, Excel, and
-SQL to uncover patterns and generate actionable insights.
+**ESquare Technologies Pvt Ltd, Bhubaneswar**  
+*Test Engineer* (Sep 2014 - Feb 2016)  
+- Developed test plans and scenarios to ensure product quality and reliability, aligning with client expectations.  
+- Conducted functional, integration, and regression testing to optimize product performance and user experience.
+
+**ICOMM Tele Ltd., Hyderabad**  
+*Engineer Trainee* (Aug 2010 - Aug 2012)  
+- Engineered technical infrastructure for HV substations and LT lines, focusing on cost efficiency and project management.  
+- Directed quality assurance initiatives to ensure compliance with safety standards and maintain project integrity.
