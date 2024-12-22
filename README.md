@@ -1,19 +1,26 @@
-## TECHNICAL LEAD
+## Technical Lead - Software Development and Data Science
+---
+Technical Lead with extensive experience in software development and a strong interest in data science. 
+Over the past 10 years, I have designed and delivered robust applications, built distributed systems, 
+and integrated machine learning solutions into real-world projects. Passionate about leveraging data science 
+to create impactful solutions, I constantly evolve my skills to bridge technology and insights to drive meaningful change.
 
-Technical Lead with 8 years of experience designing and developing applications in C and Python for
-KVM over IP access technology and IoT devices. Throughout my career, I have built distributed
-architectures, implemented machine learning algorithms, and successfully led projects from inception
-to delivery. Passionate about data, I have worked on independent ML and AI projects, which have
-sharpened my skills in analyzing data, identifying patterns, and implementing data-driven optimization
-strategies. I aim to deepen my expertise in AI to harness its transformative potential for addressing
-societal challenges.
 
-## KEY COMPETENCIES
-Programming & Tools: Python, C, PHP, JavaScript, HTML, CSS, Shell Script, MySQL, Excel, Power
-BI, GitHub, Jira
-Frameworks & Technologies: RESTful/SOAP APIs, Apache2, OpenLDAP, Docker, Kubernetes
-AI & Data Science: Machine Learning, Deep Learning, XAI, NLP, Statistics, Data Analysis
-NumPy, Pandas, matplotlib, TensorFlow, Keras, OpenCV, spaCy, NLTK
+## Technical Skills
+---
+- **Programming & Tools**: Python, C, PHP, JavaScript, HTML, CSS, Shell Script, MySQL, Excel, Power BI, GitHub, Jira
+- **Frameworks & Technologies**: RESTful/SOAP APIs, Apache2, OpenLDAP, Docker, Kubernetes
+- **AI & Data Science**: Machine Learning, Deep Learning, XAI, NLP, Statistics, Data Analysis, NumPy, Pandas, matplotlib, TensorFlow, Keras, OpenCV, spaCy, NLTK
+
+
+## Education
+---
+- **Post Graduate Diploma, Machine Learning and Artificial Intelligence**  
+  International Institute of Information Technology, Bangalore, India. 2022
+
+- **Bachelor of Technology, Electrical and Electronics Engineering**  
+  Biju Patnaik University of Technology, Odisha, India. 2010
+
 
 ## PROFESSIONAL EXPERIENCE
 
