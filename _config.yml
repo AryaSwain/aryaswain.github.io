@@ -3,3 +3,9 @@ logo: /assets/img/headshot_circle.png
 # description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Custom contact information
+email: arya.m.swain@gmail.com
+phone: +91 9938965594
+linkedin: www.linkedin.com/in/arya-swain-27518478
+cv_link: /assets/arya_ms.pdf
