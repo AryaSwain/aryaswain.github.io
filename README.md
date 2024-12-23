@@ -56,9 +56,8 @@ This feature bridges the gap between visual and non-visual communication, empowe
 
 ![Attention-Based Encoder-Decoder Architecture](/assets/img/attention_model.png)  
 <p align="center">
-  *Representation of the attention-based encoder-decoder architecture.*
+  <em>Representation of the attention-based encoder-decoder architecture.</em>
 </p>
-
 
 The project utilizes an attention-based encoder-decoder architecture where a CNN extracts image features and an attention mechanism dynamically focuses on relevant regions of the image. This context-aware approach enables the GRU-based decoder to generate accurate and sequential audio descriptions of the image contents, making visual data accessible to visually impaired users.
 
