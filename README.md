@@ -56,7 +56,7 @@ This feature bridges the gap between visual and non-visual communication, empowe
 
 ![Attention-Based Encoder-Decoder Architecture](/assets/img/attention_model.png)  
 <p align="center">
-  <em>Representation of the attention-based encoder-decoder architecture.</em>
+  <em>Representation of the attention-based encoder-decoder architecture</em>
 </p>
 
 The project utilizes an attention-based encoder-decoder architecture where a CNN extracts image features and an attention mechanism dynamically focuses on relevant regions of the image. This context-aware approach enables the GRU-based decoder to generate accurate and sequential audio descriptions of the image contents, making visual data accessible to visually impaired users.
@@ -68,7 +68,7 @@ The project utilizes an attention-based encoder-decoder architecture where a CNN
 
 - **[AI’s Moral Compass: Nurturing Fairness Amidst Technological Advancements](https://medium.com/@arya.swain/ais-moral-compass-nurturing-fairness-amidst-technological-advancements-847f44cf6ea9)**
 
-## Recognition & Achievements
+## Awards & Recognitions
 ---
 - **["Long Association Award"](assets/img/long_association_award.jpeg)** at Amantya Technologies in recognition of exceptional contributions and longstanding commitment in 2023.
 - **["Excellence Award"](assets/img/excellence_award.png)** at Amantya Technologies for outstanding work in 2022.
