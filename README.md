@@ -26,7 +26,6 @@ to create impactful solutions, I constantly evolve my skills to bridge technolog
 ---
 **Amantya Technologies, Gurgaon**  
 **Wavenet Solutions Pvt Ltd, Gurgaon - merged with Amantya Tech in 2021**  
-
 *Technical Lead* (Apr 2019 - Present)  
 - Led a team of developers in designing and delivering KVM over IP technology, enabling remote access to multiple servers and improving operational efficiency.  
 - Developed and implemented a machine learning model to predict system failures with 92% accuracy, reducing risk analysis time by 20% and enabling real-time anomaly detection for predictive maintenance.
@@ -56,7 +55,10 @@ This project transforms visual content into audio descriptions to enhance access
 This feature bridges the gap between visual and non-visual communication, empowering users to understand and connect with visual content.
 
 ![Attention-Based Encoder-Decoder Architecture](/assets/img/attention_model.png)  
- * *Representation of the attention-based encoder-decoder architecture.* *
+<p align="center">
+  *Representation of the attention-based encoder-decoder architecture.*
+</p>
+
 
 The project utilizes an attention-based encoder-decoder architecture where a CNN extracts image features and an attention mechanism dynamically focuses on relevant regions of the image. This context-aware approach enables the GRU-based decoder to generate accurate and sequential audio descriptions of the image contents, making visual data accessible to visually impaired users.
 
