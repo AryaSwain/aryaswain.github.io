@@ -16,16 +16,16 @@ to create impactful solutions, I constantly evolve my skills to bridge technolog
 ## Education
 ---
 - **Post Graduate Diploma, Machine Learning and Artificial Intelligence**  
-  International Institute of Information Technology, Bangalore, India. 2022
+  International Institute of Information Technology, Bangalore, India - 2022
 
 - **Bachelor of Technology, Electrical and Electronics Engineering**  
-  Biju Patnaik University of Technology, Odisha, India.                2010
+  Biju Patnaik University of Technology, Odisha, India - 2010
 
 
 ## Professional Experience
 ---
 **Amantya Technologies, Gurgaon**  
-**Wavenet Solutions Pvt Ltd, Gurgaon - merged with Amantya Tech in 2021 **  
+**Wavenet Solutions Pvt Ltd, Gurgaon - merged with Amantya Tech in 2021**  
 
 *Technical Lead* (Apr 2019 - Present)  
 - Led a team of developers in designing and delivering KVM over IP technology, enabling remote access to multiple servers and improving operational efficiency.  
@@ -56,8 +56,17 @@ This project transforms visual content into audio descriptions to enhance access
 This feature bridges the gap between visual and non-visual communication, empowering users to understand and connect with visual content.
 
 ![Attention-Based Encoder-Decoder Architecture](/assets/img/attention_model.png)  
-*Representation of the attention-based encoder-decoder architecture.*
+ * *Representation of the attention-based encoder-decoder architecture.* *
 
 The project utilizes an attention-based encoder-decoder architecture where a CNN extracts image features and an attention mechanism dynamically focuses on relevant regions of the image. This context-aware approach enables the GRU-based decoder to generate accurate and sequential audio descriptions of the image contents, making visual data accessible to visually impaired users.
+
+[View Project on GitHub](https://github.com/AryaSwain/Eye-For-The-Blind_AryaSwain)
+
+## Articles & Blogs
+---
+
+- **[AI’s Moral Compass: Nurturing Fairness Amidst Technological Advancements](https://medium.com/@arya.swain/ais-moral-compass-nurturing-fairness-amidst-technological-advancements-847f44cf6ea9)**
+
+
 
 
