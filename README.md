@@ -67,6 +67,11 @@ The project utilizes an attention-based encoder-decoder architecture where a CNN
 
 - **[AI’s Moral Compass: Nurturing Fairness Amidst Technological Advancements](https://medium.com/@arya.swain/ais-moral-compass-nurturing-fairness-amidst-technological-advancements-847f44cf6ea9)**
 
+## Recognition & Achievements
+---
+- **["Long Association Award"](assets/img/long_association_award.jpg)** at Amantya Technologies in recognition of exceptional contributions and longstanding commitment in 2023.
+- **["Excellence Award"](assets/img/excellence_award.jpg)** at Amantya Technologies for outstanding work in 2022.
+- **["Star Performer Award"](assets/img/star_performer_award.jpg)** at Amantya Technologies for exceptional performance in 2021.
 
 
 
