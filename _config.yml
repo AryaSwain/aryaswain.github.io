@@ -1,9 +1,9 @@
 title: Arya Swain
 logo: /assets/img/headshot_circle.png
-description: |
-  **Email**: [arya.m.swain@gmail.com](mailto:arya.m.swain@gmail.com)  
-  **Phone**: +91 9938965594  
-  **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/arya-swain-27518478)  
-  **Resume**: [Download CV](assets/arya_ms.pdf)  
+description: >
+  <p>Email: <a href="mailto:arya.m.swain@gmail.com">arya.m.swain@gmail.com</a></p>
+  <p>Phone: +91 9938965594</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/arya-swain-27518478" target="_blank">LinkedIn Profile</a></p>
+  <p>Resume: <a href="assets/arya_ms.pdf" target="_blank">Download CV</a></p>
 show_downloads: true
 theme: jekyll-theme-minimal
